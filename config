@@ -1,0 +1,12 @@
+#Default GitHub
+Host github.com
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa
+
+
+#Crypto GitHub
+Host github-crypto
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/id_rsa_crypto
